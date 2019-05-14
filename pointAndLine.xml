@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pointAndLine> 
+
+    <spaces> 
+        <space id="1" x="100" y="750" lid="2" />
+        <space id="2" x="135" y="750" lid="2" />
+        <space id="3" x="170" y="750" lid="2" />
+        <space id="4" x="205" y="750" lid="2" />
+
+        <space id="5" x="280" y="750" lid="4" />
+        <space id="6" x="315" y="750" lid="4" />
+        <space id="7" x="350" y="750" lid="4" />
+        <space id="8" x="385" y="750" lid="4" />
+
+        <space id="9" x="430" y="750" lid="6" />
+        <space id="10" x="495" y="750" lid="6" />
+        <space id="11" x="530" y="750" lid="6" />
+        <space id="12" x="565" y="750" lid="6" />
+
+        <space id="13" x="640" y="750" lid="8" />
+        <space id="14" x="675" y="750" lid="8" />
+        <space id="15" x="710" y="750" lid="8" />
+        <space id="16" x="745" y="750" lid="8" />
+
+        <space id="17" x="820" y="750" lid="10" />
+        <space id="18" x="855" y="750" lid="10" />
+        <space id="19" x="890" y="750" lid="10" />
+        <space id="20" x="925" y="750" lid="10" />
+
+        <space id="21" x="100" y="750" lid="2" />
+        <space id="22" x="135" y="750" lid="2" />
+        <space id="23" x="170" y="750" lid="2" />
+        <space id="24" x="205" y="750" lid="2" />
+
+        <space id="25" x="280" y="750" lid="4" />
+        <space id="26" x="315" y="750" lid="4" />
+        <space id="27" x="350" y="750" lid="4" />
+        <space id="28" x="385" y="750" lid="4" />
+
+        <space id="29" x="430" y="750" lid="6" />
+        <space id="30" x="495" y="750" lid="6" />
+        <space id="31" x="530" y="750" lid="6" />
+        <space id="32" x="565" y="750" lid="6" />
+
+        <space id="33" x="640" y="750" lid="8" />
+        <space id="34" x="675" y="750" lid="8" />
+        <space id="35" x="710" y="750" lid="8" />
+        <space id="36" x="745" y="750" lid="8" />
+
+        <space id="37" x="820" y="750" lid="10" />
+        <space id="38" x="855" y="750" lid="10" />
+        <space id="39" x="890" y="750" lid="10" />
+        <space id="40" x="925" y="750" lid="10" />
+
+        <space id="41" x="100" y="590" lid="13" />
+        <space id="42" x="135" y="590" lid="13" />
+        <space id="43" x="170" y="590" lid="13" />
+        <space id="44" x="205" y="590" lid="13" />
+
+        <space id="45" x="280" y="590" lid="15" />
+        <space id="46" x="315" y="590" lid="15" />
+        <space id="47" x="350" y="590" lid="15" />
+        <space id="48" x="385" y="590" lid="15" />
+
+        <space id="49" x="430" y="590" lid="16" />
+        <space id="50" x="495" y="590" lid="16" />
+
+        <space id="51" x="530" y="590" lid="17" />
+        <space id="52" x="565" y="590" lid="17" />
+
+        <space id="53" x="640" y="590" lid="19" />
+        <space id="54" x="675" y="590" lid="19" />
+        <space id="55" x="710" y="590" lid="19" />
+        <space id="56" x="745" y="590" lid="19" />
+
+        <space id="57" x="820" y="590" lid="20" />
+        <space id="58" x="855" y="590" lid="20" />
+        <space id="59" x="890" y="590" lid="20" />
+        <space id="60" x="925" y="590" lid="20" />
+
+        <space id="61" x="100" y="590" lid="13" />
+        <space id="62" x="135" y="590" lid="13" />
+        <space id="63" x="170" y="590" lid="13" />
+        <space id="64" x="205" y="590" lid="13" />
+        <space id="65" x="240" y="590" lid="13" />
+
+        <space id="66" x="275" y="590" lid="15" />
+        <space id="67" x="310" y="590" lid="15" />
+        <space id="68" x="345" y="590" lid="15" />
+        <space id="69" x="380" y="590" lid="15" />
+
+        <space id="70" x="100" y="430" lid="22" />
+        <space id="71" x="135" y="430" lid="22" />
+        <space id="72" x="170" y="430" lid="22" />
+        <space id="73" x="205" y="430" lid="22" />
+        <space id="74" x="240" y="430" lid="22" />
+
+        <space id="75" x="275" y="430" lid="24" />
+        <space id="76" x="310" y="430" lid="24" />
+        <space id="77" x="345" y="430" lid="24" />
+        <space id="78" x="380" y="430" lid="24" />
+
+        <space id="79" x="640" y="590" lid="19" />
+        <space id="80" x="675" y="590" lid="19" />
+        <space id="81" x="710" y="590" lid="19" />
+        <space id="82" x="745" y="590" lid="19" />
+        <space id="83" x="750" y="590" lid="19" />
+
+        <space id="84" x="815" y="590" lid="20" />
+        <space id="85" x="850" y="590" lid="20" />
+        <space id="86" x="885" y="590" lid="20" />
+        <space id="87" x="920" y="590" lid="20" />
+
+        <space id="88" x="640" y="430" lid="29" />
+        <space id="89" x="675" y="430" lid="29" />
+        <space id="90" x="710" y="430" lid="29" />
+        <space id="91" x="745" y="430" lid="29" />
+        <space id="92" x="750" y="430" lid="29" />
+
+        <space id="93" x="815" y="430" lid="31" />
+        <space id="94" x="850" y="430" lid="31" />
+        <space id="95" x="885" y="430" lid="31" />
+        <space id="96" x="920" y="430" lid="31" />
+
+        <space id="97" x="100" y="430" lid="22" />
+        <space id="98" x="135" y="430" lid="22" />
+        <space id="99" x="170" y="430" lid="22" />
+        <space id="100" x="205" y="430" lid="22" />
+
+        <space id="101" x="280" y="430" lid="24" />
+        <space id="102" x="315" y="430" lid="24" />
+        <space id="103" x="350" y="430" lid="24" />
+        <space id="104" x="385" y="430" lid="24" />
+
+        <space id="105" x="430" y="430" lid="26" />
+        <space id="106" x="495" y="430" lid="26" />
+
+        <space id="107" x="530" y="430" lid="28" />
+        <space id="108" x="565" y="430" lid="28" />
+
+        <space id="109" x="640" y="430" lid="29" />
+        <space id="110" x="675" y="430" lid="29" />
+        <space id="111" x="710" y="430" lid="29" />
+        <space id="112" x="745" y="430" lid="29" />
+
+        <space id="113" x="820" y="430" lid="31" />
+        <space id="114" x="855" y="430" lid="31" />
+        <space id="115" x="890" y="430" lid="31" />
+        <space id="116" x="925" y="430" lid="31" />
+
+        <space id="117" x="100" y="250" lid="34" />
+        <space id="118" x="135" y="250" lid="34" />
+        <space id="119" x="170" y="250" lid="34" />
+        <space id="120" x="205" y="250" lid="34" />
+
+        <space id="121" x="280" y="250" lid="35" />
+        <space id="122" x="315" y="250" lid="35" />
+        <space id="123" x="350" y="250" lid="35" />
+        <space id="124" x="385" y="250" lid="35" />
+
+        <space id="125" x="430" y="250" lid="36" />
+        <space id="126" x="495" y="250" lid="36" />
+        <space id="127" x="530" y="250" lid="36" />
+        <space id="128" x="565" y="250" lid="36" />
+
+        <space id="129" x="640" y="250" lid="37" />
+        <space id="130" x="675" y="250" lid="37" />
+        <space id="131" x="710" y="250" lid="37" />
+        <space id="132" x="745" y="250" lid="37" />
+
+        <space id="133" x="820" y="250" lid="38" />
+        <space id="134" x="855" y="250" lid="38" />
+        <space id="135" x="890" y="250" lid="38" />
+        <space id="136" x="925" y="250" lid="38" />
+
+        <space id="137" x="100" y="250" lid="34" />
+        <space id="138" x="135" y="250" lid="34" />
+        <space id="139" x="170" y="250" lid="34" />
+        <space id="140" x="205" y="250" lid="34" />
+
+        <space id="141" x="280" y="250" lid="35" />
+        <space id="142" x="315" y="250" lid="35" />
+        <space id="143" x="350" y="250" lid="35" />
+        <space id="144" x="385" y="250" lid="35" />
+
+        <space id="145" x="430" y="250" lid="36" />
+        <space id="146" x="495" y="250" lid="36" />
+        <space id="147" x="530" y="250" lid="36" />
+        <space id="148" x="565" y="250" lid="36" />
+
+        <space id="149" x="640" y="250" lid="37" />
+        <space id="150" x="675" y="250" lid="37" />
+        <space id="151" x="710" y="250" lid="37" />
+        <space id="152" x="745" y="250" lid="37" />
+
+        <space id="153" x="820" y="250" lid="38" />
+        <space id="154" x="855" y="250" lid="38" />
+        <space id="155" x="890" y="250" lid="38" />
+        <space id="156" x="925" y="250" lid="38" />
+
+    </spaces>  
+
+    <key-points> 
+        <key-point id="0" x="50" y="900"/>
+  
+        <key-point id="1" x="50" y="750"/>  
+        <key-point id="2" x="170" y="750"/>  
+        <key-point id="3" x="430" y="750"/>  
+        <key-point id="4" x="610" y="750"/>  
+        <key-point id="5" x="790" y="750"/>  
+        <key-point id="6" x="1000" y="750"/> 
+ 
+        <key-point id="7" x="50" y="590"/>  
+        <key-point id="8" x="170" y="590"/>  
+        <key-point id="9" x="430" y="590"/>  
+        <key-point id="10" x="520" y="590"/>  
+        <key-point id="11" x="610" y="590"/>  
+        <key-point id="12" x="790" y="590"/>  
+        <key-point id="13" x="1000" y="590"/> 
+ 
+        <key-point id="14" x="50" y="430"/>  
+        <key-point id="15" x="170" y="430"/>  
+        <key-point id="16" x="430" y="430"/>  
+        <key-point id="17" x="520" y="430"/>  
+        <key-point id="18" x="610" y="430"/>  
+        <key-point id="19" x="790" y="430"/>  
+        <key-point id="20" x="1000" y="430"/> 
+ 
+        <key-point id="21" x="50" y="250"/>  
+        <key-point id="22" x="170" y="250"/>  
+        <key-point id="23" x="430" y="250"/>  
+        <key-point id="24" x="610" y="250"/>  
+        <key-point id="25" x="790" y="250"/>  
+        <key-point id="26" x="1000" y="250"/> 
+    </key-points>  
+    
+    <lines> 
+        <line lid="1" start_id="0" end_id="1" distance="150"/>  
+        <line lid="2" start_id="1" end_id="2" distance="200"/>  
+        <line lid="3" start_id="1" end_id="7" distance="160"/>  
+        <line lid="4" start_id="2" end_id="3" distance="180"/>  
+        <line lid="5" start_id="2" end_id="8" distance="160"/>  
+        <line lid="6" start_id="3" end_id="4" distance="180"/>  
+        <line lid="7" start_id="3" end_id="9" distance="160"/>  
+        <line lid="8" start_id="4" end_id="5" distance="180"/>  
+        <line lid="9" start_id="4" end_id="11" distance="160"/>  
+        <line lid="10" start_id="5" end_id="6" distance="210"/>  
+        <line lid="11" start_id="5" end_id="12" distance="160"/>  
+        <line lid="12" start_id="6" end_id="13" distance="160"/>  
+
+        <line lid="13" start_id="7" end_id="8" distance="200"/>  
+        <line lid="14" start_id="7" end_id="14" distance="160"/>  
+        <line lid="15" start_id="8" end_id="9" distance="160"/>  
+        <line lid="16" start_id="9" end_id="10" distance="90"/>  
+        <line lid="17" start_id="10" end_id="11" distance="90"/>  
+        <line lid="18" start_id="10" end_id="17" distance="160"/>  
+        <line lid="19" start_id="11" end_id="12" distance="180"/>  
+        <line lid="20" start_id="12" end_id="13" distance="210"/>  
+        <line lid="21" start_id="13" end_id="20" distance="180"/>  
+
+        <line lid="22" start_id="14" end_id="15" distance="200"/>  
+        <line lid="23" start_id="14" end_id="21" distance="180"/>  
+        <line lid="24" start_id="15" end_id="16" distance="180"/>  
+        <line lid="25" start_id="15" end_id="22" distance="180"/>  
+        <line lid="26" start_id="16" end_id="17" distance="90"/>  
+        <line lid="27" start_id="16" end_id="23" distance="180"/>  
+        <line lid="28" start_id="17" end_id="18" distance="90"/>  
+        <line lid="29" start_id="18" end_id="19" distance="180"/>  
+        <line lid="30" start_id="18" end_id="24" distance="180"/>  
+        <line lid="31" start_id="19" end_id="20" distance="210"/>  
+        <line lid="32" start_id="19" end_id="25" distance="180"/>  
+        <line lid="33" start_id="20" end_id="26" distance="180"/> 
+ 
+        <line lid="34" start_id="21" end_id="22" distance="200"/>  
+        <line lid="35" start_id="22" end_id="23" distance="180"/>  
+        <line lid="36" start_id="23" end_id="24" distance="180"/>  
+        <line lid="37" start_id="24" end_id="25" distance="180"/>  
+        <line lid="38" start_id="25" end_id="26" distance="210"/> 
+    </lines> 
+</pointAndLine>
