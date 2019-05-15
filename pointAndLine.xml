@@ -205,14 +205,14 @@
         <key-point id="0" x="50" y="900"/>
   
         <key-point id="1" x="50" y="750"/>  
-        <key-point id="2" x="170" y="750"/>  
+        <key-point id="2" x="250" y="750"/>  
         <key-point id="3" x="430" y="750"/>  
         <key-point id="4" x="610" y="750"/>  
         <key-point id="5" x="790" y="750"/>  
         <key-point id="6" x="1000" y="750"/> 
  
         <key-point id="7" x="50" y="590"/>  
-        <key-point id="8" x="170" y="590"/>  
+        <key-point id="8" x="250" y="590"/>  
         <key-point id="9" x="430" y="590"/>  
         <key-point id="10" x="520" y="590"/>  
         <key-point id="11" x="610" y="590"/>  
@@ -220,7 +220,7 @@
         <key-point id="13" x="1000" y="590"/> 
  
         <key-point id="14" x="50" y="430"/>  
-        <key-point id="15" x="170" y="430"/>  
+        <key-point id="15" x="250" y="430"/>  
         <key-point id="16" x="430" y="430"/>  
         <key-point id="17" x="520" y="430"/>  
         <key-point id="18" x="610" y="430"/>  
@@ -228,7 +228,7 @@
         <key-point id="20" x="1000" y="430"/> 
  
         <key-point id="21" x="50" y="250"/>  
-        <key-point id="22" x="170" y="250"/>  
+        <key-point id="22" x="250" y="250"/>  
         <key-point id="23" x="430" y="250"/>  
         <key-point id="24" x="610" y="250"/>  
         <key-point id="25" x="790" y="250"/>  
