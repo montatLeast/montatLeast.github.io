@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .pages {
+            width: 700px;
+            margin: 0 auto;
+            padding: 3px;
+            background-color: gainsboro;
+            }
+        p{
+            color: black;
+            text-indent:2em
+        }
+
+        #header{
+            padding-top: 100px;
+            border-bottom: 5px solid black;
+            background-image: url(../pic/img1.jpg)
+        }
+        #main{
+            height: 600px;
+        }
+        #footer{
+            text-align: center;
+        }
+        #pic{
+            text-align: center;
+        }
+        #name{
+            text-align: center;
+        }
+        #experience{
+            width: 60%;
+            background-color: #297440;
+            height: 100%;
+            margin-right: 5%;
+            float: left;
+        }
+        #basic_info{
+            height: 100%;
+            margin-left: 65%;
+            background: #b9b9b9;
+        }
+        img{
+            width: 140px;
+            height: 148px;
+        }
+        #basic_info table{
+            font-size: 14px;
+            line-height:60px;
+            color: cornflowerblue;
+        }
+        .title{
+            width:245px;
+            font-size: 20px;
+            font-weight:bold;
+            color:#466820;
+            text-align:left;
+            border-bottom:1px solid #a2b68c;
+        }
+        #experience p,td{
+            color:gray;
+        }
+        #basic_info td,p{
+            color:green;
+        }
+        .pofi{
+            text-align: right;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div class="pages">
+    <div id="header">
+        <div id="nav"></div>
+        <div id="pic"><img src="../pic/mps.png" alt="暂无头像"></div>
+        <div id="name"><h1>Joshua Luo</h1></div>
+    </div>
+    <div id="main">
+        <div id="experience">
+            <p class="title">教育经历</p>
+            <P>2003.9 - 2009.6 广西XX中心小学</P>
+            <p>2009.9 - 2012.6 广西XX第九中学</p>
+            <p>2012.9 - 2015.6 广西XX高中</p>
+            <p>2015.9 - 2019.6 中南大学</p>
+
+            <p class="title">实习经历</p>
+            <table><tbody><tr>
+                    <td><span>地点：</span></td>
+                    <td><span>广州中软国际</span></td>
+                    <td class="pofi"><span>2018.08 - 2018.09</span></td>
+                    </tr></tbody></table>
+            <table><tbody>
+                    <tr class="info_list"><td><span>工作内容：</span></td></tr>
+                    <td> 
+                    <p>学习JavaWeb开发，作为组长带领小组成员使用Jsp+Servlet+Mybatis框架完成一个J2EE项目</p>
+                    </td>
+                    </tbody></table>
+        </div>
+        <div id="basic_info">
+            <p class="title">个人信息</p>
+            <table>
+            <tbody>
+                <tr>
+                    <td>性别：</td>
+                    <td>男</td>
+                </tr>
+                <tr>
+                    <td>年龄：</td>
+                    <td>22</td>
+                </tr>
+                <tr>
+                    <td>籍贯：</td>
+                    <td>广西</td>
+                </tr>
+                <tr>
+                    <td>手机号码：</td>
+                    <td>1508478****</td>
+                </tr>
+                <tr>
+                    <td>邮箱：</td>
+                    <td>314099***@qq.com</td>
+                </tr>
+            </tbody>
+            </table>
+            <p class="title">语言能力</p>
+            <p>英语六级</p>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="copyright">
+            <p>
+                Copyright@2019 <a href="314099319@qq.com">Joshua Luo.</a>
+            </p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
